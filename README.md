@@ -1,4 +1,4 @@
- # 👋 Oi, meu nome é *Gabriel de Quadros*
+ # 👋 Oi, meu nome é *Gabriel de Quadros* <img src="images/Rotating_globe.gif" width="40">
 - 🎒 Estou cursando o Ensino Médio Técnico no Senai em **Desenvolvimento de Sistemas** 
 - 💼 Faço o programa Jovem Aprendiz na Intelbras na área de **Backend**
 - 🔤 Falo Inglês fluente e hoje estou aprendendo Alemão
@@ -22,4 +22,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri3lquadr0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 ### 🔝 Contribuições por Repositório
-<img src="https://github-contributor-stats.vercel.app/api?username=gabri3lquadr0s&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<img src="https://github-contributor-stats.vercel.app/api?username=gabri3lquadr0s&limit=5&theme=dark&combine_all_yearly_contributions=true"><br>
+
+<img src="images/lagarto.gif" width="500">
