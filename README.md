@@ -17,11 +17,9 @@
 <br>
 
 # 📊 Status do Github:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri3lquadr0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=gabri3lquadr0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabri3lquadr0s&theme=dark&hide_border=false"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri3lquadr0s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-
-### 🔝 Contribuições por Repositório
 <img src="https://github-contributor-stats.vercel.app/api?username=gabri3lquadr0s&limit=5&theme=dark&combine_all_yearly_contributions=true"><br>
 
 <img src="images/lagarto.gif" width="500">
