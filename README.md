@@ -1,4 +1,4 @@
- # 👋 Oi, meu nome é *Gabriel de Quadros* <img src="images/Rotating_globe.gif" width="40">
+ # 👋 Oi, meu nome é ***Gabriel de Quadros*** <img src="images/Rotating_globe.gif" width="40">
 - 🎒 Estou cursando o Ensino Médio Técnico no Senai em **Desenvolvimento de Sistemas** 
 - 💼 Faço o programa Jovem Aprendiz na Intelbras na área de **Backend**
 - 🔤 Falo Inglês fluente e hoje estou aprendendo Alemão
