@@ -3,7 +3,7 @@
 - 🎒 Estou cursando o Ensino Médio Técnico no Senai em **Desenvolvimento de Sistemas** 
 - 💼 Faço o programa Jovem Aprendiz na Intelbras na área de **Backend**
 - 🔤 Falo Inglês fluente
-- 🔎 Hoje, estou aprendendo **Python, JavaScript, SQL, e C**
+- 🔎 Hoje, estou aprendendo **Python, Django, JavaScript, SQL, e C++**
 
 <br>
 
