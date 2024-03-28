@@ -1,7 +1,7 @@
 # 👋 Oi, meu nome é ***Gabriel de Quadros*** <img src="images/Rotating_globe.gif" width="40">
 
 - 🎒 Estou cursando o Ensino Médio Técnico no Senai em **Desenvolvimento de Sistemas** 
-- 💼 Faço o programa Jovem Aprendiz na Intelbras na área de **Backend**
+- 💼 Sou **Estagiário** na Intelbras S.A
 - 🔤 Falo Inglês fluente
 - 🔎 Hoje, estou aprendendo **Python, Django, JavaScript, SQL, e C++**
 
