@@ -1,9 +1,9 @@
-# 👋 Oi, meu nome é ***Gabriel de Quadros*** <img src="images/Rotating_globe.gif" width="40">
+# 👋 Oi, meu nome é ***Gabriel Teodoro*** <img src="images/Rotating_globe.gif" width="40">
 
-- 🎒 Estou cursando o Ensino Médio Técnico no Senai em **Desenvolvimento de Sistemas** 
-- 💼 Sou **Estagiário** na Intelbras S.A
+- 🎒 Sou formado em **Desenvolvimento de Sistemas** pelo SENAI 
+- 💼 Curso **Engenharia de Controle e Automação** na UFSC
 - 🔤 Falo Inglês fluente
-- 🔎 Hoje, estou aprendendo **Python, Django, JavaScript, Typescript, NestJs, SQL, C++, e Arduino**
+- 🔎 Stack **Python, Django, JavaScript, Typescript, NestJs, SQL, C++, e Arduino**
 
 <br>
 
